@@ -159,6 +159,7 @@ watch:
 - pydantic
 
 plugins:
+- with-pdf
 - mike:
     alias_type: symlink
     canonical_version: latest
